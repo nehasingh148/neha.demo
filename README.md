@@ -1,4 +1,4 @@
 # neha.demo
 this is my first project.
 <br>
-author-neha kumari
+author-neha singh 
